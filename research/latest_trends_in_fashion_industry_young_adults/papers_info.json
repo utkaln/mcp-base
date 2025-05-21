@@ -1,0 +1,57 @@
+{
+  "2110.01641v1": {
+    "title": "Investigating Fairness of Ocular Biometrics Among Young, Middle-Aged, and Older Adults",
+    "summary": "A number of studies suggest bias of the face biometrics, i.e., face\nrecognition and soft-biometric estimation methods, across gender, race, and age\ngroups. There is a recent urge to investigate the bias of different biometric\nmodalities toward the deployment of fair and trustworthy biometric solutions.\nOcular biometrics has obtained increased attention from academia and industry\ndue to its high accuracy, security, privacy, and ease of use in mobile devices.\nA recent study in $2020$ also suggested the fairness of ocular-based user\nrecognition across males and females. This paper aims to evaluate the fairness\nof ocular biometrics in the visible spectrum among age groups; young, middle,\nand older adults. Thanks to the availability of the latest large-scale 2020\nUFPR ocular biometric dataset, with subjects acquired in the age range 18 - 79\nyears, to facilitate this study. Experimental results suggest the overall\nequivalent performance of ocular biometrics across gender and age groups in\nuser verification and gender classification. Performance difference for older\nadults at lower false match rate and young adults was noted at user\nverification and age classification, respectively. This could be attributed to\ninherent characteristics of the biometric data from these age groups impacting\nspecific applications, which suggest a need for advancement in sensor\ntechnology and software solutions.",
+    "authors": [
+      "Anoop Krishnan",
+      "Ali Almadan",
+      "Ajita Rattani"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2110.01641v1",
+    "published": "2021-10-04"
+  },
+  "2407.13495v1": {
+    "title": "Identifying Research Hotspots and Future Development Trends in Current Psychology: A Bibliometric Analysis of the Past Decade's Publications",
+    "summary": "By conducting a bibliometric analysis on 4,869 publications in Current\nPsychology from 2013 to 2022, this paper examined the annual publications and\nannual citations, as well as the leading institutions, countries, and keywords.\nCiteSpace, VOSviewer and SCImago Graphica were utilized for visualization\nanalysis. On one hand, this paper analyzed the academic influence of Current\nPsychology over the past decade. On the other hand, it explored the research\nhotspots and future development trends within the field of international\npsychology. The results revealed that the three main research areas covered in\nthe publications of Current Psychology were: the psychological well-being of\nyoung people, the negative emotions of adults, and self-awareness and\nmanagement. The latest research hotspots highlighted in the journal include\nnegative emotions, personality, and mental health. The three main development\ntrends of Current Psychology are: 1) exploring the personality psychology of\nboth adolescents and adults, 2) promoting the interdisciplinary research to\nstudy social psychological issues through the use of diversified research\nmethods, and 3) emphasizing the emotional psychology of individuals and their\ninteraction with social reality, from a people-oriented perspective.",
+    "authors": [
+      "Shen Liu",
+      "Yan Yang"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2407.13495v1",
+    "published": "2024-07-18"
+  },
+  "2005.03297v2": {
+    "title": "Knowledge Enhanced Neural Fashion Trend Forecasting",
+    "summary": "Fashion trend forecasting is a crucial task for both academia and industry.\nAlthough some efforts have been devoted to tackling this challenging task, they\nonly studied limited fashion elements with highly seasonal or simple patterns,\nwhich could hardly reveal the real fashion trends. Towards insightful fashion\ntrend forecasting, this work focuses on investigating fine-grained fashion\nelement trends for specific user groups. We first contribute a large-scale\nfashion trend dataset (FIT) collected from Instagram with extracted time series\nfashion element records and user information. Further-more, to effectively\nmodel the time series data of fashion elements with rather complex patterns, we\npropose a Knowledge EnhancedRecurrent Network model (KERN) which takes\nadvantage of the capability of deep recurrent neural networks in modeling\ntime-series data. Moreover, it leverages internal and external knowledge in\nfashion domain that affects the time-series patterns of fashion element trends.\nSuch incorporation of domain knowledge further enhances the deep learning model\nin capturing the patterns of specific fashion elements and predicting the\nfuture trends. Extensive experiments demonstrate that the proposed KERN model\ncan effectively capture the complicated patterns of objective fashion elements,\ntherefore making preferable fashion trend forecast.",
+    "authors": [
+      "Yunshan Ma",
+      "Yujuan Ding",
+      "Xun Yang",
+      "Lizi Liao",
+      "Wai Keung Wong",
+      "Tat-Seng Chua"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2005.03297v2",
+    "published": "2020-05-07"
+  },
+  "1907.07161v1": {
+    "title": "Predicting Next-Season Designs on High Fashion Runway",
+    "summary": "Fashion is a large and fast-changing industry. Foreseeing the upcoming\nfashion trends is beneficial for fashion designers, consumers, and retailers.\nHowever, fashion trends are often perceived as unpredictable due to the\nenormous amount of factors involved into designers' subjectivity. In this\npaper, we propose a fashion trend prediction framework and design neural\nnetwork models to leverage structured fashion runway show data, learn the\nfashion collection embedding, and further train RNN/LSTM models to capture the\ndesigners' style evolution. Our proposed framework consists of (1) a runway\nembedding learning model that uses fashion runway images to learn every\nseason's collection embedding, and (2) a next-season fashion design prediction\nmodel that leverage the concept of designer style and trend to predict\nnext-season design given designers. Through experiments on a collected dataset\nacross 32 years of fashion shows, our framework can achieve the best\nperformance of 78.42% AUC on average and 95% for an individual designer when\npredicting the next season's design.",
+    "authors": [
+      "Yusan Lin",
+      "Hao Yang"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/1907.07161v1",
+    "published": "2019-07-16"
+  },
+  "2005.00986v1": {
+    "title": "Using Artificial Intelligence to Analyze Fashion Trends",
+    "summary": "Analyzing fashion trends is essential in the fashion industry. Current\nfashion forecasting firms, such as WGSN, utilize the visual information from\naround the world to analyze and predict fashion trends. However, analyzing\nfashion trends is time-consuming and extremely labor intensive, requiring\nindividual employees' manual editing and classification. To improve the\nefficiency of data analysis of such image-based information and lower the cost\nof analyzing fashion images, this study proposes a data-driven quantitative\nabstracting approach using an artificial intelligence (A.I.) algorithm.\nSpecifically, an A.I. model was trained on fashion images from a large-scale\ndataset under different scenarios, for example in online stores and street\nsnapshots. This model was used to detect garments and classify clothing\nattributes such as textures, garment style, and details for runway photos and\nvideos. It was found that the A.I. model can generate rich attribute\ndescriptions of detected regions and accurately bind the garments in the\nimages. Adoption of A.I. algorithm demonstrated promising results and the\npotential to classify garment types and details automatically, which can make\nthe process of trend forecasting more cost-effective and faster.",
+    "authors": [
+      "Mengyun Shi",
+      "Van Dyk Lewis"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2005.00986v1",
+    "published": "2020-05-03"
+  }
+}

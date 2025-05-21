@@ -1,0 +1,61 @@
+{
+  "2106.14657v1": {
+    "title": "A new system for evaluating brand importance: A use case from the fashion industry",
+    "summary": "Today brand managers and marketing specialists can leverage huge amount of\ndata to reveal patterns and trends in consumer perceptions, monitoring positive\nor negative associations of brands with respect to desired topics. In this\nstudy, we apply the Semantic Brand Score (SBS) indicator to assess brand\nimportance in the fashion industry. To this purpose, we measure and visualize\ntext data using the SBS Business Intelligence App (SBS BI), which relies on\nmethods and tools of text mining and social network analysis. We collected and\nanalyzed about 206,000 tweets that mentioned the fashion brands Fendi, Gucci\nand Prada, during the period from March 5 to March 12, 2021. From the analysis\nof the three SBS dimensions - prevalence, diversity and connectivity - we found\nthat Gucci dominated the discourse, with high values of SBS. We use this case\nstudy as an example to present a new system for evaluating brand importance and\nimage, through the analysis of (big) textual data.",
+    "authors": [
+      "A. Fronzetti Colladon",
+      "F. Grippa",
+      "L. Segneri"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2106.14657v1",
+    "published": "2021-06-24"
+  },
+  "2005.03297v2": {
+    "title": "Knowledge Enhanced Neural Fashion Trend Forecasting",
+    "summary": "Fashion trend forecasting is a crucial task for both academia and industry.\nAlthough some efforts have been devoted to tackling this challenging task, they\nonly studied limited fashion elements with highly seasonal or simple patterns,\nwhich could hardly reveal the real fashion trends. Towards insightful fashion\ntrend forecasting, this work focuses on investigating fine-grained fashion\nelement trends for specific user groups. We first contribute a large-scale\nfashion trend dataset (FIT) collected from Instagram with extracted time series\nfashion element records and user information. Further-more, to effectively\nmodel the time series data of fashion elements with rather complex patterns, we\npropose a Knowledge EnhancedRecurrent Network model (KERN) which takes\nadvantage of the capability of deep recurrent neural networks in modeling\ntime-series data. Moreover, it leverages internal and external knowledge in\nfashion domain that affects the time-series patterns of fashion element trends.\nSuch incorporation of domain knowledge further enhances the deep learning model\nin capturing the patterns of specific fashion elements and predicting the\nfuture trends. Extensive experiments demonstrate that the proposed KERN model\ncan effectively capture the complicated patterns of objective fashion elements,\ntherefore making preferable fashion trend forecast.",
+    "authors": [
+      "Yunshan Ma",
+      "Yujuan Ding",
+      "Xun Yang",
+      "Lizi Liao",
+      "Wai Keung Wong",
+      "Tat-Seng Chua"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2005.03297v2",
+    "published": "2020-05-07"
+  },
+  "1907.07161v1": {
+    "title": "Predicting Next-Season Designs on High Fashion Runway",
+    "summary": "Fashion is a large and fast-changing industry. Foreseeing the upcoming\nfashion trends is beneficial for fashion designers, consumers, and retailers.\nHowever, fashion trends are often perceived as unpredictable due to the\nenormous amount of factors involved into designers' subjectivity. In this\npaper, we propose a fashion trend prediction framework and design neural\nnetwork models to leverage structured fashion runway show data, learn the\nfashion collection embedding, and further train RNN/LSTM models to capture the\ndesigners' style evolution. Our proposed framework consists of (1) a runway\nembedding learning model that uses fashion runway images to learn every\nseason's collection embedding, and (2) a next-season fashion design prediction\nmodel that leverage the concept of designer style and trend to predict\nnext-season design given designers. Through experiments on a collected dataset\nacross 32 years of fashion shows, our framework can achieve the best\nperformance of 78.42% AUC on average and 95% for an individual designer when\npredicting the next season's design.",
+    "authors": [
+      "Yusan Lin",
+      "Hao Yang"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/1907.07161v1",
+    "published": "2019-07-16"
+  },
+  "2005.00986v1": {
+    "title": "Using Artificial Intelligence to Analyze Fashion Trends",
+    "summary": "Analyzing fashion trends is essential in the fashion industry. Current\nfashion forecasting firms, such as WGSN, utilize the visual information from\naround the world to analyze and predict fashion trends. However, analyzing\nfashion trends is time-consuming and extremely labor intensive, requiring\nindividual employees' manual editing and classification. To improve the\nefficiency of data analysis of such image-based information and lower the cost\nof analyzing fashion images, this study proposes a data-driven quantitative\nabstracting approach using an artificial intelligence (A.I.) algorithm.\nSpecifically, an A.I. model was trained on fashion images from a large-scale\ndataset under different scenarios, for example in online stores and street\nsnapshots. This model was used to detect garments and classify clothing\nattributes such as textures, garment style, and details for runway photos and\nvideos. It was found that the A.I. model can generate rich attribute\ndescriptions of detected regions and accurately bind the garments in the\nimages. Adoption of A.I. algorithm demonstrated promising results and the\npotential to classify garment types and details automatically, which can make\nthe process of trend forecasting more cost-effective and faster.",
+    "authors": [
+      "Mengyun Shi",
+      "Van Dyk Lewis"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2005.00986v1",
+    "published": "2020-05-03"
+  },
+  "2007.09102v1": {
+    "title": "Breaking Moravec's Paradox: Visual-Based Distribution in Smart Fashion Retail",
+    "summary": "In this paper, we report an industry-academia collaborative study on the\ndistribution method of fashion products using an artificial intelligence (AI)\ntechnique combined with an optimization method. To meet the current fashion\ntrend of short product lifetimes and an increasing variety of styles, the\ncompany produces limited volumes of a large variety of styles. However, due to\nthe limited volume of each style, some styles may not be distributed to some\noff-line stores. As a result, this high-variety, low-volume strategy presents\nanother challenge to distribution managers. We collaborated with KOLON F/C, one\nof the largest fashion business units in South Korea, to develop models and an\nalgorithm to optimally distribute the products to the stores based on the\nvisual images of the products. The team developed a deep learning model that\neffectively represents the styles of clothes based on their visual image.\nMoreover, the team created an optimization model that effectively determines\nthe product mix for each store based on the image representation of clothes. In\nthe past, computers were only considered to be useful for conducting logical\ncalculations, and visual perception and cognition were considered to be\ndifficult computational tasks. The proposed approach is significant in that it\nuses both AI (perception and cognition) and mathematical optimization (logical\ncalculation) to address a practical supply chain problem, which is why the\nstudy was called \"Breaking Moravec's Paradox.\"",
+    "authors": [
+      "Shin Woong Sung",
+      "Hyunsuk Baek",
+      "Hyeonjun Sim",
+      "Eun Hie Kim",
+      "Hyunwoo Hwangbo",
+      "Young Jae Jang"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2007.09102v1",
+    "published": "2020-07-10"
+  }
+}

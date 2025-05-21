@@ -101,7 +101,7 @@ tools = [
     {
         "name": "search_research_papers",
         "description": "Search for research papers on a specific topic and store their information.",
-        "parameters": {
+        "input_schema": {
             "type": "object",
             "properties": {
                 "topic": {
@@ -119,7 +119,7 @@ tools = [
     {
         "name": "extract_research_info",
         "description": "Extract information about a specific research paper by its ID.",
-        "parameters": {
+        "input_schema": {
             "type": "object",
             "properties": {
                 "research_doc_id": {
@@ -158,10 +158,9 @@ def execute_tool(tool_name, tool_args):
 
 
 # Invoke Chatbot call
-load_dotenv()
-llm_client = anthropic.Anthropic(
-    api_key=os.getenv("ANTHROPIC_API_KEY"),
-)
+from dotenv import load_dotenv, find_dotenv
+_ = load_dotenv(find_dotenv())
+llm_client = anthropic.Anthropic()
 
 # Process Query using LLM
 def process_query(query):
@@ -186,7 +185,6 @@ def process_query(query):
                     continue_processing = False
             
             elif content.type == 'tool_use':
-                print(f"Tool suggested from LLM Search -> {content.text}")
                 assistant_content.append(content)
                 messages.append({'role':'assistant', 'content': assistant_content})
 
@@ -199,7 +197,7 @@ def process_query(query):
                 messages.append({'role':'user', 'content':[
                     {
                         'type': 'tool_result',
-                        'tool_user_id': tool_id,
+                        'tool_use_id': tool_id,
                         'content': result
                     }
                 ]})
@@ -225,13 +223,10 @@ def chat_loop():
     print("Type 'exit' to quit.")
     
     while True:
-        try:
-            query = input("\nQuery: ").strip()
-            if query.lower() == 'quit':
-                break
-            process_query(query)
-        except Exception as e:
-            print(f"An error occurred: {str(e)}")
+        query = input("\nQuery: ").strip()
+        if query.lower() == 'quit':
+            break
+        process_query(query)
 
 
 

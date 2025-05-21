@@ -1,0 +1,63 @@
+{
+  "2209.09596v1": {
+    "title": "Synapse: Interactive Guidance by Demonstration with Trial-and-Error Support for Older Adults to Use Smartphone Apps",
+    "summary": "As smartphones are widely adopted, mobile applications (apps) are emerging to\nprovide critical services such as food delivery and telemedicine. While bring\nconvenience to everyday life, this trend may create barriers for older adults\nwho tend to be less tech-savvy than young people. In-person or screen sharing\nsupport is helpful but limited by the help-givers' availability. Video\ntutorials can be useful but require users to switch contexts between watching\nthe tutorial and performing the corresponding actions in the app, which is\ncumbersome to do on a mobile phone. Although interactive tutorials have been\nshown to be promising, none was designed for older adults. Furthermore, the\ntrial-and-error approach has been shown to be beneficial for older adults, but\nthey often lack support to use the approach. Inspired by both interactive\ntutorials and trial-and-error approach, we designed an app-independent mobile\nservice, \\textit{Synapse}, for help-givers to create a multimodal interactive\ntutorial on a smartphone and for help-receivers (e.g., older adults) to receive\ninteractive guidance with trial-and-error support when they work on the same\ntask. We conducted a user study with 18 older adults who were 60 and over. Our\nquantitative and qualitative results show that Synapse provided better support\nthan the traditional video approach and enabled participants to feel more\nconfident and motivated. Lastly, we present further design considerations to\nbetter support older adults with trial-and-error on smartphones.",
+    "authors": [
+      "Xiaofu Jin",
+      "Xiaozhu Hu",
+      "Xiaoying Wei",
+      "Mingming Fan"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2209.09596v1",
+    "published": "2022-09-20"
+  },
+  "2208.13326v1": {
+    "title": "Effective approaches to disaster evacuation during a COVID-like pandemic",
+    "summary": "Since COVID-19 vaccines became available, no studies have quantified how\ndifferent disaster evacuation strategies can mitigate pandemic risks in\nshelters. Therefore, we applied an age-structured epidemiological model, known\nas the Susceptible-Exposed-Infectious-Recovered (SEIR) model, to investigate to\nwhat extent different vaccine uptake levels and the Diversion protocol\nimplemented in Taiwan decrease infections and delay pandemic peak occurrences.\nTaiwan's Diversion protocol involves diverting those in self-quarantine due to\nexposure, thus preventing them from mingling with the general public at a\ncongregate shelter. The Diversion protocol, combined with sufficient vaccine\nuptake, can decrease the maximum number of infections and delay outbreaks\nrelative to scenarios without such strategies. When the diversion of all\nexposed people is not possible, or vaccine uptake is insufficient, the\nDiversion protocol is still valuable. Furthermore, a group of evacuees that\nconsists primarily of a young adult population tends to experience pandemic\npeak occurrences sooner and have up to 180% more infections than does a\nmajority elderly group when the Diversion protocol is implemented. However,\nwhen the Diversion protocol is not enforced, the majority elderly group suffers\nfrom up to 20% more severe cases than the majority young adult group.",
+    "authors": [
+      "Yi-Lin Tsai",
+      "Dymasius Y. Sitepu",
+      "Karyn E. Chappell",
+      "Rishi P. Mediratta",
+      "C. Jason Wang",
+      "Peter K. Kitanidis",
+      "Christopher B. Field"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2208.13326v1",
+    "published": "2022-08-29"
+  },
+  "2407.13495v1": {
+    "title": "Identifying Research Hotspots and Future Development Trends in Current Psychology: A Bibliometric Analysis of the Past Decade's Publications",
+    "summary": "By conducting a bibliometric analysis on 4,869 publications in Current\nPsychology from 2013 to 2022, this paper examined the annual publications and\nannual citations, as well as the leading institutions, countries, and keywords.\nCiteSpace, VOSviewer and SCImago Graphica were utilized for visualization\nanalysis. On one hand, this paper analyzed the academic influence of Current\nPsychology over the past decade. On the other hand, it explored the research\nhotspots and future development trends within the field of international\npsychology. The results revealed that the three main research areas covered in\nthe publications of Current Psychology were: the psychological well-being of\nyoung people, the negative emotions of adults, and self-awareness and\nmanagement. The latest research hotspots highlighted in the journal include\nnegative emotions, personality, and mental health. The three main development\ntrends of Current Psychology are: 1) exploring the personality psychology of\nboth adolescents and adults, 2) promoting the interdisciplinary research to\nstudy social psychological issues through the use of diversified research\nmethods, and 3) emphasizing the emotional psychology of individuals and their\ninteraction with social reality, from a people-oriented perspective.",
+    "authors": [
+      "Shen Liu",
+      "Yan Yang"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2407.13495v1",
+    "published": "2024-07-18"
+  },
+  "1811.10883v2": {
+    "title": "The fundamental diagrams of elderly pedestrian flow in straight corridors under different densities",
+    "summary": "The worldwide population is aging and countries are facing ongoing challenges\nin meeting the transportation demand of the elderly. In this study, we\ninvestigate the movement characteristics of elders in the straight corridor and\ncompare them with that of young adults. The free speeds of the elderly (about\n1.28m/s) are obviously slower than that of the young people (about 1.4m/s) in\nthe laboratory experiments. It was found that the fundamental diagram of the\nelderly shows the similar trend compared with that of young pedestrians.\nHowever, at the same densities the speeds of the elderly are always lower than\nthat of the young pedestrians in the observed density range (< 3.0 m2). When\nthe mean velocity calculated from pedestrian movement at low densities is\nconsidered, the two normalized fundamental diagrams agree quite well. The\nreasons for the differences are explored by analyzing the border distance, the\nnearest neighbors as well as the spatial distribution areas of the pedestrians.\nOur findings can be useful for the improvement of the pedestrian modelling and\nthe design of pedestrian facilities that are much friendlier to the elderly.",
+    "authors": [
+      "Xiangxia Ren",
+      "Jun Zhang",
+      "Weiguo Song",
+      "Shuchao Cao"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/1811.10883v2",
+    "published": "2018-11-27"
+  },
+  "2402.03341v1": {
+    "title": "Migration from Rural to Urban: Case Analysis of the Peasant Community of Antacahua, Puno-2023",
+    "summary": "This study examines the low population presence in the Community Campesina de\nAntacahua, aiming to identify migration drivers and assess their correlation\nwith rural-to-urban migration trends. Employing a mixed approach, including\nsurveys, normative, and bibliographic analysis, the research reveals that\nemigration is propelled by factors like dissatisfaction with inadequate\nservices (34.4%), economic support deficiency (23.4%), low crop productivity\n(15.6%), study-related reasons (18.8%), and land scarcity (7.8%). Emigrants,\ncomprising teenagers (12.5%), young adults (17.2%, 43.7%), and adults (26.6%),\nprefer destinations like Juliaca (40.0%), Puno (23.0%), Ananea and Cojata mines\n(25.0%), and other locations (12.0%). Literature analysis highlights\ninsufficient government policies, suggesting solutions like promoting basic\nservices through land allocation and enhancing economic opportunities by\nintegrating new members into the Communal Directive.",
+    "authors": [
+      "William Incacutipa",
+      "Laymir Apaza",
+      "Clever Mamani",
+      "Renzo Apaza"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2402.03341v1",
+    "published": "2024-01-19"
+  }
+}
