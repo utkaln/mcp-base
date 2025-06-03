@@ -1,0 +1,55 @@
+{
+  "2503.16558v1": {
+    "title": "Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI",
+    "summary": "Problem-Based Learning (PBL) has significantly impacted biomedical\nengineering (BME) education since its introduction in the early 2000s,\neffectively enhancing critical thinking and real-world knowledge application\namong students. With biomedical engineering rapidly converging with artificial\nintelligence (AI), integrating effective AI education into established\ncurricula has become challenging yet increasingly necessary. Recent\nadvancements, including AI's recognition by the 2024 Nobel Prize, have\nhighlighted the importance of training students comprehensively in biomedical\nAI. However, effective biomedical AI education faces substantial obstacles,\nsuch as diverse student backgrounds, limited personalized mentoring,\nconstrained computational resources, and difficulties in safely scaling\nhands-on practical experiments due to privacy and ethical concerns associated\nwith biomedical data. To overcome these issues, we conducted a three-year\n(2021-2023) case study implementing an advanced PBL framework tailored\nspecifically for biomedical AI education, involving 92 undergraduate and 156\ngraduate students from the joint Biomedical Engineering program of Georgia\nInstitute of Technology and Emory University. Our approach emphasizes\ncollaborative, interdisciplinary problem-solving through authentic biomedical\nAI challenges. The implementation led to measurable improvements in learning\noutcomes, evidenced by high research productivity (16 student-authored\npublications), consistently positive peer evaluations, and successful\ndevelopment of innovative computational methods addressing real biomedical\nchallenges. Additionally, we examined the role of generative AI both as a\nteaching subject and an educational support tool within the PBL framework. Our\nstudy presents a practical and scalable roadmap for biomedical engineering\ndepartments aiming to integrate robust AI education into their curricula.",
+    "authors": [
+      "Micky C. Nnamdi",
+      "J. Ben Tamo",
+      "Wenqi Shi",
+      "May D. Wang"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2503.16558v1",
+    "published": "2025-03-20"
+  },
+  "1303.5874v1": {
+    "title": "BIMS: Biomedical Information Management System",
+    "summary": "In this paper, we present BIMS (Biomedical Information Management System).\nBIMS is a software architecture designed to provide a flexible computational\nframework to manage the information needs of a wide range of biomedical\nresearch projects. The main goal is to facilitate the clinicians' job in data\nentry, and researcher's tasks in data management, in high data quality\nbiomedical research projects. The BIMS architecture has been designed following\nthe two-level modeling paradigm, a promising methodology to model rich and\ndynamic information environments. In addition, a functional implementation of\nBIMS architecture has been developed as a web-based application. The result is\na highly flexible web application which allows modeling and managing large\namounts of heterogeneous biomedical data sets, both textual as well as visual\n(medical images) information.",
+    "authors": [
+      "Oscar Mora",
+      "Jes\u00fas Bisbal"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/1303.5874v1",
+    "published": "2013-03-23"
+  },
+  "0912.2307v1": {
+    "title": "Rank Based Clustering For Document Retrieval From Biomedical Databases",
+    "summary": "Now a day's, search engines are been most widely used for extracting\ninformation's from various resources throughout the world. Where, majority of\nsearches lies in the field of biomedical for retrieving related documents from\nvarious biomedical databases. Currently search engines lacks in document\nclustering and representing relativeness level of documents extracted from the\ndatabases. In order to overcome these pitfalls a text based search engine have\nbeen developed for retrieving documents from Medline and PubMed biomedical\ndatabases. The search engine has incorporated page ranking bases clustering\nconcept which automatically represents relativeness on clustering bases. Apart\nfrom this graph tree construction is made for representing the level of\nrelatedness of the documents that are networked together. This advance\nfunctionality incorporation for biomedical document based search engine found\nto provide better results in reviewing related documents based on relativeness.",
+    "authors": [
+      "Jayanthi Manicassamy",
+      "P. Dhavachelvan"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/0912.2307v1",
+    "published": "2009-12-11"
+  },
+  "1503.05781v1": {
+    "title": "Memantic: A Medical Knowledge Discovery Engine",
+    "summary": "We present a system that constructs and maintains an up-to-date co-occurrence\nnetwork of medical concepts based on continuously mining the latest biomedical\nliterature. Users can explore this network visually via a concise online\ninterface to quickly discover important and novel relationships between medical\nentities. This enables users to rapidly gain contextual understanding of their\nmedical topics of interest, and we believe this constitutes a significant user\nexperience improvement over contemporary search engines operating in the\nbiomedical literature domain.",
+    "authors": [
+      "Alexei Yavlinsky"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/1503.05781v1",
+    "published": "2015-03-19"
+  },
+  "1911.00760v2": {
+    "title": "GRAPHENE: A Precise Biomedical Literature Retrieval Engine with Graph Augmented Deep Learning and External Knowledge Empowerment",
+    "summary": "Effective biomedical literature retrieval (BLR) plays a central role in\nprecision medicine informatics. In this paper, we propose GRAPHENE, which is a\ndeep learning based framework for precise BLR. GRAPHENE consists of three main\ndifferent modules 1) graph-augmented document representation learning; 2) query\nexpansion and representation learning and 3) learning to rank biomedical\narticles. The graph-augmented document representation learning module\nconstructs a document-concept graph containing biomedical concept nodes and\ndocument nodes so that global biomedical related concept from external\nknowledge source can be captured, which is further connected to a BiLSTM so\nboth local and global topics can be explored. Query expansion and\nrepresentation learning module expands the query with abbreviations and\ndifferent names, and then builds a CNN-based model to convolve the expanded\nquery and obtain a vector representation for each query. Learning to rank\nminimizes a ranking loss between biomedical articles with the query to learn\nthe retrieval function. Experimental results on applying our system to TREC\nPrecision Medicine track data are provided to demonstrate its effectiveness.",
+    "authors": [
+      "Sendong Zhao",
+      "Chang Su",
+      "Andrea Sboner",
+      "Fei Wang"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/1911.00760v2",
+    "published": "2019-11-02"
+  }
+}

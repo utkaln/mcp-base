@@ -1,0 +1,11 @@
+{
+  "2302.11522v4": {
+    "title": "Evaluation of Extra Pixel Interpolation with Mask Processing for Medical Image Segmentation with Deep Learning",
+    "summary": "Current mask processing operations rely on interpolation algorithms that do\nnot produce extra pixels, such as nearest neighbor (NN) interpolation, as\nopposed to algorithms that do produce extra pixels, like bicubic (BIC) or\nbilinear (BIL) interpolation. In our previous study, the author proposed an\nalternative approach to NN-based mask processing and evaluated its effects on\ndeep learning training outcomes. In this study, the author evaluated the\neffects of both BIC-based image and mask processing and BIC-and-NN-based image\nand mask processing versus NN-based image and mask processing. The evaluation\nrevealed that the BIC-BIC model/network was an 8.9578 % (with image size 256 x\n256) and a 1.0496 % (with image size 384 x 384) increase of the NN-NN network\ncompared to the NN-BIC network which was an 8.3127 % (with image size 256 x\n256) and a 0.2887 % (with image size 384 x 384) increase of the NN-NN network.",
+    "authors": [
+      "Olivier Rukundo"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2302.11522v4",
+    "published": "2023-02-22"
+  }
+}

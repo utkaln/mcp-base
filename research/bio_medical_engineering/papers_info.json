@@ -1,0 +1,59 @@
+{
+  "1306.0541v1": {
+    "title": "Identifying Pairs in Simulated Bio-Medical Time-Series",
+    "summary": "The paper presents a time-series-based classification approach to identify\nsimilarities in pairs of simulated human-generated patterns. An example for a\npattern is a time-series representing a heart rate during a specific\ntime-range, wherein the time-series is a sequence of data points that represent\nthe changes in the heart rate values. A bio-medical simulator system was\ndeveloped to acquire a collection of 7,871 price patterns of financial\ninstruments. The financial instruments traded in real-time on three American\nstock exchanges, NASDAQ, NYSE, and AMEX, simulate bio-medical measurements. The\nsystem simulates a human in which each price pattern represents one bio-medical\nsensor. Data provided during trading hours from the stock exchanges allowed\nreal-time classification. Classification is based on new machine learning\ntechniques: self-labeling, which allows the application of supervised learning\nmethods on unlabeled time-series and similarity ranking, which applied on a\ndecision tree learning algorithm to classify time-series regardless of type and\nquantity.",
+    "authors": [
+      "Uri Kartoun"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/1306.0541v1",
+    "published": "2013-05-12"
+  },
+  "1102.4086v2": {
+    "title": "Schroedinger Eigenmaps for the Analysis of Bio-Medical Data",
+    "summary": "We introduce Schroedinger Eigenmaps, a new semi-supervised manifold learning\nand recovery technique. This method is based on an implementation of graph\nSchroedinger operators with appropriately constructed barrier potentials as\ncarriers of labeled information. We use our approach for the analysis of\nstandard bio-medical datasets and new multispectral retinal images.",
+    "authors": [
+      "Wojciech Czaja",
+      "Martin Ehler"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/1102.4086v2",
+    "published": "2011-02-20"
+  },
+  "1812.01884v1": {
+    "title": "MedSim: A Novel Semantic Similarity Measure in Bio-medical Knowledge Graphs",
+    "summary": "We present MedSim, a novel semantic SIMilarity method based on public\nwell-established bio-MEDical knowledge graphs (KGs) and large-scale corpus, to\nstudy the therapeutic substitution of antibiotics. Besides hierarchy and corpus\nof KGs, MedSim further interprets medicine characteristics by constructing\nmulti-dimensional medicine-specific feature vectors. Dataset of 528 antibiotic\npairs scored by doctors is applied for evaluation and MedSim has produced\nstatistically significant improvement over other semantic similarity methods.\nFurthermore, some promising applications of MedSim in drug substitution and\ndrug abuse prevention are presented in case study.",
+    "authors": [
+      "Kai Lei",
+      "Kaiqi Yuan",
+      "Qiang Zhang",
+      "Ying Shen"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/1812.01884v1",
+    "published": "2018-12-05"
+  },
+  "1505.04114v1": {
+    "title": "Scaffolding the Mitochondrial Disease Ontology from extant knowledge sources",
+    "summary": "Bio-medical ontologies can contain a large number of concepts. Often many of\nthese concepts are very similar to each other, and similar or identical to\nconcepts found in other bio-medical databases. This presents both a challenge\nand opportunity: maintaining many similar concepts is tedious and fastidious\nwork, which could be substantially reduced if the data could be derived from\npre-existing knowledge sources. In this paper, we describe how we have achieved\nthis for an ontology of the mitochondria using our novel ontology development\nenvironment, the Tawny-OWL library.",
+    "authors": [
+      "Jennifer D. Warrender",
+      "Phillip Lord"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/1505.04114v1",
+    "published": "2015-05-15"
+  },
+  "2005.03275v1": {
+    "title": "Bio-Impedance Spectroscopy: Basics and Applications",
+    "summary": "In this review, we aim to introduce the reader to the technique of electrical\nimpedance spectroscopy (EIS) with a focus on its biological and medical\napplications. We explain the theoretical and experimental aspects of the EIS\nwith the details essential for biological studies, i.e interaction of metal\nelectrodes with biological matter and liquids, strategies of increasing\nmeasurement rate and noise reduction in bio-EIS experiments, etc. We give\nvarious examples of successful bio-EIS practical implementations in science and\ntechnology: from the whole-body health monitoring and sensors for vision\nprosthetic care to single living cell examination platforms and virus diseases\nresearch. Present review can be used as a bio-EIS tutorial for students as well\nas a handbook for scientists and engineers due to extensive references covering\nthe contemporary research papers in the field.",
+    "authors": [
+      "Daniil D. Stupin",
+      "Ekaterina A. Kuzina",
+      "Anna A. Abelit",
+      "Sergei V. Koniakhin",
+      "Anton E. Emelyanov",
+      "Dmitrii M. Nikolaev",
+      "Mikhail N. Ryazantsev",
+      "Michael V. Dubina"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2005.03275v1",
+    "published": "2020-05-07"
+  }
+}

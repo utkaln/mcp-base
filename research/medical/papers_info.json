@@ -1,0 +1,13 @@
+{
+  "2204.11736v2": {
+    "title": "KnowAugNet: Multi-Source Medical Knowledge Augmented Medication Prediction Network with Multi-Level Graph Contrastive Learning",
+    "summary": "Predicting medications is a crucial task in many intelligent healthcare\nsystems. It can assist doctors in making informed medication decisions for\npatients according to electronic medical records (EMRs). However, medication\nprediction is a challenging data mining task due to the complex relations\nbetween medical codes. Most existing studies focus on utilizing inherent\nrelations between homogeneous codes of medical ontology graph to enhance their\nrepresentations using supervised methods, and few studies pay attention to the\nvaluable relations between heterogeneous or homogeneous medical codes from\nhistory EMRs, which further limits the prediction performance and application\nscenarios. Therefore, to address these limitations, this paper proposes\nKnowAugNet, a multi-sourced medical knowledge augmented medication prediction\nnetwork which can fully capture the diverse relations between medical codes via\nmulti-level graph contrastive learning framework. Specifically, KnowAugNet\nfirst leverages the graph contrastive learning using graph attention network as\nthe encoder to capture the implicit relations between homogeneous medical codes\nfrom the medical ontology graph and obtains the knowledge augmented medical\ncodes embedding vectors. Then, it utilizes the graph contrastive learning using\na weighted graph convolutional network as the encoder to capture the\ncorrelative relations between homogeneous or heterogeneous medical codes from\nthe constructed medical prior relation graph and obtains the relation augmented\nmedical codes embedding vectors. Finally, the augmented medical codes embedding\nvectors and the supervised medical codes embedding vectors are retrieved and\ninput to the sequential learning network to capture the temporal relations of\nmedical codes and predict medications for patients.",
+    "authors": [
+      "Yang An",
+      "Bo Jin",
+      "Xiaopeng Wei"
+    ],
+    "pdf_url": "http://arxiv.org/pdf/2204.11736v2",
+    "published": "2022-04-25"
+  }
+}
